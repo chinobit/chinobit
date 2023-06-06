@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<p align="center">Curently, I'm employed at an Israeli ISP company <a href="https://israelinternet.co.il"> ITCng 🌟</a></p>
+<p align="center">Curently, I'm employed at Israel Institute of Technology <a href="https://technion.ac.il"> - Technion 🌟</a></p>
 
 <!--
 **chinobit/chinobit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
